@@ -4,7 +4,7 @@ Unofficial electronic character sheet in russian for Vampire: The Masquerade 20t
 
 Features:
 
-- dot-based attributes
+- dot-based stats
 - WoD dice roller
 - JSON export/import
 - mobile support
